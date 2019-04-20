@@ -1,0 +1,2 @@
+/ncappzoo/apps/security-cam 目錄下
+sudo python3 security-cam-serial-movecam.py --video 0 --graph face_graph --labels face_labels.txt
