@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=autotracking
+Exec=/home/pi/ncappzoo/apps/security-cam/autotracking.sh
+Icon=/home/pi/icon/SkullAndBones.png
+StartupNotify=true
+Terminal=true
+Type=Application
+Name[en_US]=autotracking
+X-KeepTerminal=true
+Path=/home/pi/ncappzoo/apps/security-cam/

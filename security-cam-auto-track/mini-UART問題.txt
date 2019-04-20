@@ -1,0 +1,12 @@
+Raspberry Pi3 UART:
+bluetooth ---> /dev/ttyAMA0
+mini UART ---> /dev/ttyS0   pin 8, pin10
+ls /dev/tty* -l --->看/dev/ttyS0權限
+sudo chmod 777 /dev/ttyS0 ---> 每次重開機ttyS0都要改可以執行
+
+
+
+
+
+
+
