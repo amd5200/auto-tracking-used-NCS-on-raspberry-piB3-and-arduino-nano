@@ -13,3 +13,6 @@ copy autotracking.desktop to RPI3B+ desktop, it's quick running button in autotr
 
 
 Have fun :)
+
+video: https://www.youtube.com/watch?v=HhRgy-uNmOA
+
