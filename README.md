@@ -16,3 +16,7 @@ Have fun :)
 
 video: https://www.youtube.com/watch?v=HhRgy-uNmOA
 
+使用ssh pi@192.168.1.x 連上RPI3B+ 並執行autotracking.sh (未產生圖形視窗)
+
+其追蹤速度會加快,最後要登出(exit)才能結束程式.
+
